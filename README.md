@@ -1,18 +1,15 @@
-### Hi there 👋
+🧑‍💻 Iago Roque
+<br> **`Software Engineering Student`** </br>
 
-<!--
-**iagoroque/iagoroque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hello, my name is Iago.
 
-Here are some ideas to get you started:
+  <div> 
+  <a href = "mailto:iago.marau@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/iagoroquern/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "https://iagoroque.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools
 
-<a href="https://github.com/iagoroque/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoroque&card_width=500&layout=compact&theme=transparent&hide_border=true"/></a>
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,kotlin,androidstudio,postman,vscode" />
