@@ -1,5 +1,5 @@
 🧑‍💻 Iago Roque
-<br> **`Software Engineering Student`** </br>
+<br> **`Software Engineering`** </br>
 
 - 👋 Hello, my name is Iago.
 
